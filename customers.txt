@@ -1,0 +1,7 @@
+Adrian,Ashwah,04-15-2018 13:00:00.000,The Amazing Spiderman,Marvel,9
+Laurel,Anders,07-12-2018 17:00:00.000,Atomic Blonde,DC,10
+Andrew,Born,06-17-2018 13:00:00.000,Thor,DC,10
+Huckleberry,Finn,07-13-2018 13:00:00.000,Wolverine,Marvel,9
+Joe,Dirt,10-10-2018 00:00:00.000,Captain Crunch,Kellog,10
+Andrey,Dubenskiy,12-12-1628 00:00:00.000,Cossacks,Russian Empire,10
+Action,Jackson,11-11-2014 00:00:00.000,TeamUSA,USA,11
